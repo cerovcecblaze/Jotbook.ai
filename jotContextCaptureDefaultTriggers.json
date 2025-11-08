@@ -48,7 +48,7 @@
     "dataElements": [
       {
         "key": "html",
-        "selectors": ["html > body > c-wiz > div > div:nth-of-type(2)"]
+        "selectors": ["html > body"]
       }
     ],
     "description": "",
