@@ -55,7 +55,7 @@
     "id": "mh5s0xvcxwo4i0x7du",
     "name": "Google News",
     "originalUrl": "https://news.google.com/home",
-    "urlPattern": "https://news.google.com/home"
+    "urlPattern": "https://news.google.com/"
   },
   {
     "dataElements": [
