@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "download_url": "https://github.com/cerovcecblaze/Jotbook.ai/releases/download/v1.0.1/JotContextBrain-Installer.dmg",
+  "download_url": "https://github.com/cerovcecblaze/Jotbook.ai/releases/latest/download/JotContextBrain-Installer.dmg",
   "release_notes": "Version 1.0.1\n• Launch at Login enabled by default\n• App automatically starts when you log in\n• Runs in background - always ready when you need it\n• Can be disabled via menu if needed"
 }
