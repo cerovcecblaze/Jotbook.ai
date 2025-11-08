@@ -1,5 +1,21 @@
 [
   {
+  "active": true,
+  "dataElements": [
+    {
+      "key": "html",
+      "selectors": [
+        "html > body > main > div > div:nth-of-type(3) > div > div > div > div > div"
+      ]
+    }
+  ],
+  "description": "",
+  "id": "mhqdob6gdr8lbvwc6j6",
+  "name": "Sales Nav",
+  "originalUrl": "https://www.linkedin.com/sales/lead/ACwAACah1eEBnkeMF5iz6zWJWLoFFv3dKKJDkvg,NAME_SEARCH,7sM0",
+  "urlPattern": "https://www.linkedin.com/sales/lead/"
+},
+  {
     "dataElements": [
       {
         "key": "html",
