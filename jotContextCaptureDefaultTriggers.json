@@ -16,61 +16,6 @@
   "urlPattern": "https://www.linkedin.com/sales/lead/"
 },
   {
-    "dataElements": [
-      {
-        "key": "html",
-        "selectors": [
-          "html > body > div:nth-of-type(2) > div > div > div:nth-of-type(2) > div:nth-of-type(2) > div > div > div"
-        ]
-      }
-    ],
-    "id": "gcalendar",
-    "description": "This is the webpage:",
-    "name": "Google Calendar",
-    "originalUrl": "https://calendar.google.com/calendar/u/0/r",
-    "urlPattern": "https://calendar.google.com/calendar/u/0/r"
-  },
-  {
-    "dataElements": [
-      {
-        "key": "html",
-        "selectors": ["html > body"]
-      }
-    ],
-    "id": "gmail",
-    "description": "This is the webpage:",
-    "name": "Gmail",
-    "originalUrl": "https://mail.google.com/mail/u/0/#inbox",
-    "urlPattern": "https://mail.google.com/mail/"
-  },
-  {
-    "active": true,
-    "dataElements": [
-      {
-        "key": "html",
-        "selectors": ["html > body"]
-      }
-    ],
-    "description": "",
-    "id": "mh5s0xvcxwo4i0x7du",
-    "name": "Google News",
-    "originalUrl": "https://news.google.com/home",
-    "urlPattern": "https://news.google.com/"
-  },
-  {
-    "dataElements": [
-      {
-        "key": "html",
-        "selectors": ["html > body"]
-      }
-    ],
-    "id": "xcom",
-    "description": "This is the webpage:",
-    "name": "X",
-    "originalUrl": "https://x.com/explore/tabs/for_you",
-    "urlPattern": "https://x.com/"
-  },
-  {
     "active": false,
     "dataElements": [
       {
